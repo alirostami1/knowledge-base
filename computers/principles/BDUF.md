@@ -1,0 +1,3 @@
+**BDUF** is an acronym for **"Big Design Upfront"**.
+
+The BDUF principle states that software systems should be designed as completely as possible before any coding begins. While this approach can be useful in some cases, it can also lead to unnecessary complexity and a lack of flexibility. Instead, many developers prefer an iterative approach, where the design evolves over time as the software is developed and tested.

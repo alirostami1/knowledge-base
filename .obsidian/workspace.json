@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "950ad9ec68a3ecd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6f9db76452a5813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149c4d54a71c255f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31bd6646275f73d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6f1b645ed7c07f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47509afdf04b77a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3c0eebe64cba613",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20fb3008476f1fa8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f99ae8f40c771a21",
+    "type": "split",
+    "children": [
+      {
+        "id": "87eb3e1ae58bfff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a1f0075909d079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1354599c8aa16a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2576004d9650d832",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ced3b24a3d52cb7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show log": false
+    }
+  },
+  "active": "149c4d54a71c255f",
+  "lastOpenFiles": [
+    "2023-08-10.md",
+    "computers/principles/SOLID.md",
+    "felan",
+    "computers/principles/YAGNI.md",
+    "computers/principles/Composition Over Inheritance.md",
+    "computers/principles/Law of Demeter.md",
+    "computers/principles/Minimize Coupling.md",
+    "computers/principles/Connascence.md",
+    "computers/principles/Boy Scout Rule.md",
+    "computers/principles/Avoid Premature Optimization.md",
+    "computers/principles/Code For The Maintainer.md",
+    "computers/principles/KISS.md",
+    "computers/principles/Separation of Concerns.md",
+    "computers/principles/DRY.md",
+    "computers/principles/BDUF.md",
+    "computers/principles/The Liskov Substitution Principle.md",
+    "computers/principles/The Open-Closed Principle.md",
+    "computers/principles/The Single Responsibility Principle.md",
+    "computers/principles/The Interface Segregation Principle.md",
+    "computers/principles/The Dependency Inversion Principle.md",
+    "computers/principles",
+    "computers/databases/SQLite.md",
+    "computers/databases/Cassandra.md",
+    "computers/databases/Memcached.md",
+    "computers/Go.md",
+    "computers/Cache.md",
+    "computers/databases/What is a database.md",
+    "computers/databases/Redis.md",
+    "computers/databases",
+    "computers",
+    "IELTS"
+  ]
+}
