@@ -11,8 +11,12 @@
             "id": "149c4d54a71c255f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "computers/principles/SOLID/L - Liskov substitution principle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computers/principles/SOLID/L - Liskov substitution principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computers/principles/SOLID/L - Liskov substitution principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "computers/principles/SOLID/L - Liskov substitution principle.md"
+              }
             }
           }
         ]
@@ -142,8 +150,25 @@
   },
   "active": "149c4d54a71c255f",
   "lastOpenFiles": [
-    "2023-08-10.md",
+    "computers/principles/SOLID/I - Interface segregation principle.md",
+    "computers/principles/SOLID/D - Dependency inversion.md",
+    "computers/principles/The Single Responsibility Principle.md",
+    "computers/principles/SOLID/S - Single responsibility principle.md",
+    "computers/principles/SOLID/O - Open close principle.md",
+    "computers/principles/SOLID/L - Liskov substitution principle.md",
+    "computers/principles/SOLID",
+    "assets/images/solid-article-image-1.png",
+    "assets/images/solid-article-image-2.png",
+    "assets/images/1_yKk2XKJaCLNlDxQMx1r55Q.webp",
+    "assets/images/1_Qk8tDmjQlyvwKxNTfXIo0Q.webp",
+    "assets/images/1_P3oONz9Da3Tc1w97fMV73Q.webp",
+    "assets/images/1_2hmyR9L43Vm64MYxj4Y89w.webp",
+    "assets/images/1_0MtFBmm6L2WVM04qCJOZPQ.webp",
+    "assets/images",
+    "assets",
     "computers/principles/SOLID.md",
+    "IELTS/Vocabulary.md",
+    "2023-08-10.md",
     "felan",
     "computers/principles/YAGNI.md",
     "computers/principles/Composition Over Inheritance.md",
@@ -159,17 +184,10 @@
     "computers/principles/BDUF.md",
     "computers/principles/The Liskov Substitution Principle.md",
     "computers/principles/The Open-Closed Principle.md",
-    "computers/principles/The Single Responsibility Principle.md",
     "computers/principles/The Interface Segregation Principle.md",
     "computers/principles/The Dependency Inversion Principle.md",
     "computers/principles",
     "computers/databases/SQLite.md",
-    "computers/databases/Cassandra.md",
-    "computers/databases/Memcached.md",
-    "computers/Go.md",
-    "computers/Cache.md",
-    "computers/databases/What is a database.md",
-    "computers/databases/Redis.md",
     "computers/databases",
     "computers",
     "IELTS"
