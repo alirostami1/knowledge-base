@@ -1,0 +1,9 @@
+The Principle of Least Astonishment, also known as the Principle of Least Surprise, is a design guideline or heuristic used in various fields, especially in software engineering and user interface design. The principle suggests that systems, designs, or interfaces should be created in a way that minimizes the potential for users or developers to be surprised or confused by how they behave.
+
+In other words, when designing something, whether it's a piece of software, a user interface, or even a physical device, it's important to make it behave in a way that aligns with users' expectations and common conventions. This reduces confusion, frustration, and errors that might arise if the design deviates too much from what people are used to.
+
+The principle is based on the idea that users, when interacting with a system or interface, bring their prior knowledge and experiences to the table. If a design violates their expectations too much, it can lead to confusion and a negative user experience.
+
+For example, consider a software application where clicking a red button usually means "cancel" and clicking a green button usually means "confirm." If this convention is suddenly reversed in a specific application, it might astonish users and lead to mistakes. Adhering to the Principle of Least Astonishment would mean following the established color-coding convention to ensure that users can predict the behavior correctly.
+
+Overall, the principle encourages designers and developers to prioritize familiarity, consistency, and common conventions in their creations. This helps users to easily understand and use the system or interface without encountering unexpected behaviors that might confuse or surprise them.
