@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computers/principles/DRY.md",
+                "file": "computers/principles/Law of Demeter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computers/principles/DRY.md",
+                "file": "computers/principles/Law of Demeter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computers/principles/DRY.md",
+                "file": "computers/principles/Law of Demeter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computers/principles/DRY.md"
+                "file": "computers/principles/Law of Demeter.md"
               }
             }
           }
@@ -148,10 +148,11 @@
       "obsidian-livesync:Show log": false
     }
   },
-  "active": "47509afdf04b77a9",
+  "active": "48871e6b7e6e3a87",
   "lastOpenFiles": [
-    "computers/principles/Composition Over Inheritance.md",
     "computers/principles/DRY.md",
+    "computers/principles/KISS.md",
+    "computers/principles/Composition Over Inheritance.md",
     "computers/principles/Connascence.md",
     "computers/principles/Code For The Maintainer.md",
     "computers/books/Don't Make Me Think.md",
@@ -187,7 +188,6 @@
     "computers/principles/YAGNI.md",
     "computers/principles/Law of Demeter.md",
     "computers/principles/Minimize Coupling.md",
-    "computers/principles/KISS.md",
     "computers/principles",
     "computers/databases",
     "computers",
